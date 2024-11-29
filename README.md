@@ -1,4 +1,4 @@
-# Bash-Scripting-in-Linux
+# Bash Scripting in Linux
 
 <h2>Description</h2>
 In this Linux home lab, I created a bash script to back up the contents of "/Confidential" to a "/Backups/$date" directory where date is the current date of backup. I've included an if, then, statement depending on if the current date directory is already created at the time of backup. 
