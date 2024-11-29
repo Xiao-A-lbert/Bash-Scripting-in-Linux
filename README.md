@@ -80,7 +80,7 @@ Overwrote the "hello backup" message with "hi overwrite" in test.txt from /Confi
 <br />
 <br />
 
-Went backt to investigate permissions denied message. Turns out I forgot the backslash in "/Backups". 
+Went back to investigate permissions denied message. Turns out I forgot the backslash in "/Backups". 
 
 ![9) Forgot backslah in script ](https://github.com/user-attachments/assets/0f3cf490-2f83-4123-aeca-6e84b3aa4b4c)
 
